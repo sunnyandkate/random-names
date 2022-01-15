@@ -13,7 +13,7 @@ body{
 	
 }
 h2{
-	margin:3rem auto;
+	margin:0 auto;
 	width:80%;
 	color: #8f854a;
 }
@@ -28,7 +28,7 @@ button, input{
 	box-shadow: 2px 2px 12px #799fa1;
 	border-radius:1rem;
 	padding: .7rem 2rem;
-	margin:2rem;
+	margin:1rem;
 	text-transform:uppercase;
 }
 button{
